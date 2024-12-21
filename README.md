@@ -287,6 +287,10 @@ Publish the website in the LocalHost.
 ![Screenshot (2027)](https://github.com/user-attachments/assets/31268b2c-7b2e-4d6f-a6a9-dd3c96b08aed)
 # project.html
 ![Screenshot (2028)](https://github.com/user-attachments/assets/c21b9a27-05e9-4288-8652-6183c914ebd9)
+
+
+
+
 # signup.html
 ![Screenshot (2029)](https://github.com/user-attachments/assets/e275b2b5-c98a-4fd8-88ed-4f52cf4434bf)
 # RESULT:
